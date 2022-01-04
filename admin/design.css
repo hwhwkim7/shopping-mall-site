@@ -1,0 +1,43 @@
+@charset "utf-8";
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:hover {
+	color: #045f3e;
+	text-decoration: blink;
+
+
+}
+#wrap #main .mainContent table {
+	margin-bottom: 100px;
+	font-size: 16px;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-top-style: ridge;
+	border-right-style: none;
+	border-bottom-style: ridge;
+}
+.inputbar {
+	width: 250px;
+	height: 20px;
+}
+.listTable {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: ridge;
+	border-bottom-style: ridge;
+	border-right-style: none;
+	border-left-style: none;
+}
+
+#wrap #main .mainContent .total #totalTable {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: ridge;
+	border-bottom-style: ridge;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	color: #666;
+}
